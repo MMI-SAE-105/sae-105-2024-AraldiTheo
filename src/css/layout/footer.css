@@ -1,10 +1,36 @@
 .footer {
-  background-color: var(--gray-800);
+  background-color: var(--footer);
   color: var(--white);
-  padding: var(--space3x);
+  padding: 150px;
   font-size: var(--fs-s);
 }
 
 .footer__copyright {
   color: var(--gray-600);
+}
+.footer__logo{
+  position:absolute;
+  bottom: -725px;
+  left: 25px;
+}
+.Logofooter__resaux--face{
+position: absolute;
+}
+.Logofooter__resaux--insta{
+position: absolute;
+}
+.Logofooter__resaux--tiktok{
+position: absolute;
+}
+.Logofooter__resaux--youtube{
+position: absolute;
+}
+.footer__contact{
+  position: absolute;
+  left: 15px;
+}
+.footer__apropos{
+  position: absolute;
+  left: 15px;
+  top: 15px
 }

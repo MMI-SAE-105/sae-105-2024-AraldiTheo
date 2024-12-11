@@ -8,7 +8,7 @@ body {
   font-family: var(--font-sans-serif);
   font-size: var(--fs-s);
   line-height: 1.6;
-  background-color: var(--gray-white);
+  background-color: var(--background);
   font-weight: 300;
 }
 
@@ -69,4 +69,48 @@ textarea {
   background-color: var(--primary);
   padding: 4px var(--space1x);
   font-weight: 500;
+}
+.intro__title{
+  text-align: center;
+  font-size: var(--fs-lg);
+}
+.intro__partenaires{
+  text-align: center;
+  font-size: var(--fs-lg);
+}
+.main__logo--1{
+  position: relative;
+  right: -20px;
+}
+.main__logo--2{
+  position: relative;
+  right: -30px;
+}
+.main__logo--3{
+  position: relative;
+  right: -40px;
+}
+.main__logo--4{
+  position: relative;
+  right: -50px;
+}
+.main__logo--5{
+  position: relative;
+  right: -150px;
+}
+.main__logo--11{
+  position: relative;
+  right: -20px;
+}
+.main__logo--21{
+  position: relative;
+  right: -30px;
+}
+.main__logo--31{
+  position: relative;
+  right: -40px;
+}
+.main__logo--41{
+  position: relative;
+  right: -50px;
 }
