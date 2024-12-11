@@ -8,6 +8,13 @@
   --gray-200: #f7f7f7;
   --white: white;
 
+    /* color */
+    --background: #e6ffd7;
+    --blanc: #ffffff;
+    --footer: #9effa7;
+    --herder: #fdeab5;
+  
+
   /* Text-size styles */
   --fs-xs: 0.75rem;
   --fs-s: 0.875rem;
