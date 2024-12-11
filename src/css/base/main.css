@@ -73,6 +73,7 @@ textarea {
 .intro__title{
   text-align: center;
   font-size: var(--fs-lg);
+  padding: 30px;
 }
 .intro__partenaires{
   text-align: center;
@@ -113,4 +114,7 @@ textarea {
 .main__logo--41{
   position: relative;
   right: -50px;
+}
+.Sponsors{
+  text-align: center;
 }

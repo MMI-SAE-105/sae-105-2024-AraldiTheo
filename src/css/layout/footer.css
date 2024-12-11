@@ -1,7 +1,7 @@
 .footer {
   background-color: var(--footer);
   color: var(--white);
-  padding: 150px;
+  padding: 215px;
   font-size: var(--fs-s);
 }
 
@@ -13,24 +13,57 @@
   bottom: -725px;
   left: 25px;
 }
-.Logofooter__resaux--face{
-position: absolute;
+.footer__resaux--face{
+  position: absolute;
+  left :15px;
+  bottom: -1030px;
 }
-.Logofooter__resaux--insta{
-position: absolute;
+.footer__resaux--insta{
+  position: absolute;
+  left :55px;
+  bottom: -1030px;
 }
-.Logofooter__resaux--tiktok{
-position: absolute;
+.footer__resaux--tiktok{
+  position: absolute;
+  left :95px;
+  bottom: -1030px;
 }
-.Logofooter__resaux--youtube{
-position: absolute;
+.footer__resaux--youtube{
+  position: absolute;
+  left :135px;
+  bottom: -1027px;
 }
 .footer__contact{
   position: absolute;
   left: 15px;
+  bottom: -785px;
+  color: black;
 }
 .footer__apropos{
   position: absolute;
   left: 15px;
-  top: 15px
+  bottom: -825px ;
+  color: black;
+}
+.footer__text{
+  position: absolute;
+  left: 15px;
+  bottom: -985px ;
+  width: 125px;
+  color: black;
+}
+.footer__copyright{
+  position: absolute;
+  right : 10px;
+  bottom: -1045px;
+}
+.footer__mentions{
+  position: absolute;
+  right : 10px;
+  bottom: -1050px;
+}
+.footer__politique{
+  position: absolute;
+  right : 10px;
+  bottom: -1010px;
 }
