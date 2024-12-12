@@ -10,6 +10,7 @@ body {
   line-height: 1.6;
   background-color: var(--background);
   font-weight: 300;
+  width: 100%;
 }
 
 h1,
@@ -28,6 +29,7 @@ h2 {
 
 h3 {
   line-height: 1.4;
+  font-size: var(--fs-xs);
 }
 
 button,
@@ -118,3 +120,41 @@ textarea {
 .Sponsors{
   text-align: center;
 }
+.title__sous{
+  width: 150px;
+}
+.title__down{
+  margin-left: 150px;
+}
+.rectangle{
+position: relative;
+margin-left: 15px;
+margin-bottom: 100px;
+margin-top: 25px;
+border-radius: 5px;
+}
+.Buton__text{
+  font-size: var(--fs-xl);
+  text-align:center;
+}
+.text__main{
+  margin-left: 60px;
+  width: 250px;
+}
+.titl__date{
+font-weight: bold;
+text-align: center;
+}
+.titl__titre{
+  text-align: center;
+ font-style: italic;
+}
+.image__film{
+  position: relative;
+  left:100px;
+  }
+  .text__maine{
+    margin-left: 60px;
+    width: 80px;
+  }
+  
