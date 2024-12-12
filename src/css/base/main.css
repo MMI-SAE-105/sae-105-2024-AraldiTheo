@@ -152,15 +152,46 @@ text-align: center;
 .image__film{
   position: relative;
   left:100px;
-  }
-  .text__maine{
+}
+.text__maine{
     margin-left: 60px;
     width: 80px;
-  }
-  .rectanglee{
+}
+.rectanglee{
     position: relative;
     margin-left: 35px;
     margin-bottom: 50px;
     margin-top: 25px;
     border-radius: 5px;
-    }
+  }
+  .titl__hot{
+  text-align: center;
+  font-size: 95%;
+  }
+  .image__hot{
+margin-left: 70px;
+  }
+  .rectanglee__contact{
+    position: relative;
+    margin-left: 35px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border: 2px solid black;
+  }
+  .contact__info{
+    position: relative;
+    left: 35px;
+  }
+  .rectanglee__envoi{
+    position: relative;
+    margin-left: 125px;
+    margin-bottom: 20px;
+    border-radius: 17px;
+  }
+  .rectanglee__com{
+    position: relative;
+    margin-left: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
