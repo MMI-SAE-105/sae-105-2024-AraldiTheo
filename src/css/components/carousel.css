@@ -21,8 +21,8 @@
 
 .carousel__container {
   display:flex;
- 
   overflow: scroll;
+  overflow-y:hidden;
   margin-left: -24px;
   margin-right: -24px;
   scroll-snap-type: x mandatory;
@@ -35,11 +35,4 @@
 
 .carousel__item img {
  display: block;
-}
-
-.carousel__liste{
-display: flex;
-justify-content: space-between;
-list-style: none;
-scroll-behavior: smooth;
 }

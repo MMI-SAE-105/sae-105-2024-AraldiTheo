@@ -18,7 +18,8 @@
 color: black;
 font-style: 2rem;
 margin-bottom: 50px;
-width: 140px;
+list-style: none;
+width: 100px;
 }
 .footer__reseaux {
   display: flex;
@@ -26,4 +27,8 @@ width: 140px;
 }
 .footer__reseau {
   margin-right: 20px;
+}
+
+.footer_lien {
+  text-decoration: none;
 }
